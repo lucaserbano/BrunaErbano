@@ -1,0 +1,223 @@
+{
+  "branding": {
+    "colorScheme": "light",
+    "fonts": [
+      {
+        "family": "Raleway",
+        "role": "body",
+        "weight": 300,
+        "weightLabel": "light"
+      },
+      {
+        "family": "Raleway",
+        "role": "heading",
+        "weight": 500,
+        "weightLabel": "medium"
+      },
+      {
+        "family": "Raleway",
+        "role": "button",
+        "weight": 500,
+        "weightLabel": "medium"
+      }
+    ],
+    "colors": {
+      "primary": "#2C65D0",
+      "dark": "#0D1220",
+      "light": "#F5F9FD",
+      "muted": "#86959B",
+      "accent": "#0095F6",
+      "background": "#FFFFFF",
+      "textPrimary": "#0D1220",
+      "link": "#0D1220",
+      "black": "#000000",
+      "white": "#FFFFFF"
+    },
+    "colorUsage": {
+      "#2C65D0": { "label": "Azul primário", "usage": "40-50%", "note": "Botões, fundos de destaque, textos em fundo claro, gradientes" },
+      "#0D1220": { "label": "Azul escuro/navy", "usage": "30-40%", "note": "Textos principais, contornos, fundos escuros, gradiente" },
+      "#F5F9FD": { "label": "Branco azulado", "usage": "20-30%", "note": "Fundo principal, navbar, rodapé, texto em fundo colorido" },
+      "#86959B": { "label": "Cinza", "usage": "10-20%", "note": "Detalhes, bordas, contraste com o azul escuro" },
+      "#000000": { "label": "Preto puro", "usage": "secundário", "note": "" },
+      "#FFFFFF": { "label": "Branco puro", "usage": "secundário", "note": "" }
+    },
+    "gradient": {
+      "primary": "linear-gradient(-45deg, #2C65D0, #0D1220)",
+      "from": "#2C65D0",
+      "to": "#0D1220",
+      "angle": -45
+    },
+    "typography": {
+      "fontFamilies": {
+        "primary": "Raleway",
+        "heading": "Raleway",
+        "button": "Raleway"
+      },
+      "fontWeights": {
+        "body": 300,
+        "heading": 500,
+        "button": 500
+      },
+      "fontStacks": {
+        "heading": [
+          "Raleway",
+          "sans-serif"
+        ],
+        "body": [
+          "Raleway",
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "Segoe UI",
+          "Helvetica Neue",
+          "Arial",
+          "Noto Sans",
+          "sans-serif"
+        ],
+        "paragraph": [
+          "Raleway",
+          "sans-serif"
+        ]
+      },
+      "fontSizes": {
+        "h1": "50px",
+        "h2": "24px",
+        "body": "24px"
+      }
+    },
+    "spacing": {
+      "baseUnit": 4,
+      "borderRadius": "4px"
+    },
+    "components": {
+      "buttonPrimary": {
+        "background": "#2C65D0",
+        "textColor": "#F5F9FD",
+        "fontWeight": 500,
+        "borderRadius": "50px",
+        "borderRadiusCorners": {
+          "topLeft": "50px",
+          "topRight": "50px",
+          "bottomRight": "50px",
+          "bottomLeft": "50px"
+        },
+        "shadow": "none"
+      },
+      "buttonSecondary": {
+        "background": "#FFFFFF",
+        "textColor": "#333333",
+        "fontWeight": 500,
+        "borderRadius": "0px",
+        "borderRadiusCorners": {
+          "topLeft": "0px",
+          "topRight": "0px",
+          "bottomRight": "0px",
+          "bottomLeft": "0px"
+        },
+        "shadow": "none"
+      }
+    },
+    "images": {
+      "logo": "https://brunaerbano.com.br/wp-content/uploads/2025/07/Prancheta-26.png",
+      "favicon": "https://brunaerbano.com.br/wp-content/uploads/2026/01/cropped-logo-para-icone-pagina-32x32.jpg",
+      "ogImage": "https://brunaerbano.com.br/wp-content/uploads/2026/01/cropped-logo-para-icone-pagina-270x270.jpg",
+      "logoAlt": "Logo - Bruna Erbano"
+    },
+    "logoVariants": {
+      "horizontal": "https://brunaerbano.com.br/wp-content/uploads/2025/07/Prancheta-26.png",
+      "verticalLocal": "assets/arquivos identidade visual/",
+      "symbolLocal": "assets/arquivos identidade visual/",
+      "tagline": "CARDIOLOGISTA e ECOCARDIOGRAFISTA"
+    },
+    "__llm_logo_reasoning": {
+      "selectedIndex": 0,
+      "reasoning": "Selected #0 because it is visible, located in the header, and the alt text matches the brand name 'Bruna Erbano'. It is the most prominent logo representing the brand.",
+      "confidence": 0.9,
+      "source": "llm"
+    },
+    "__llm_button_reasoning": {
+      "primary": {
+        "index": 2,
+        "text": "Agende seu exame!",
+        "reasoning": "Button #2 is the primary CTA because it uses the vibrant brand color #2C65D0, has a rounded border radius which makes it stand out, and the text 'Agende seu exame!' is action-oriented, encouraging users to schedule an appointment."
+      },
+      "secondary": {
+        "index": 4,
+        "text": "Contato",
+        "reasoning": "Button #4 is selected as the secondary CTA because it has a different background color (#FFFFFF) and offers a less prominent action ('Contato'), which complements the primary action."
+      },
+      "confidence": 0.95
+    },
+    "personality": {
+      "tone": "professional",
+      "energy": "medium",
+      "targetAudience": "patients seeking cardiology services"
+    },
+    "designSystem": {
+      "framework": "custom",
+      "componentLibrary": ""
+    },
+    "confidence": {
+      "buttons": 0.95,
+      "colors": 0.9,
+      "overall": 0.925
+    },
+    "__llm_metadata": {
+      "logoSelection": {
+        "llmCalled": true,
+        "llmSucceeded": true,
+        "finalSource": "llm",
+        "rawLogoSelection": {
+          "selectedLogoIndex": 0,
+          "selectedLogoReasoning": "Selected #0 because it is visible, located in the header, and the alt text matches the brand name 'Bruna Erbano'. It is the most prominent logo representing the brand.",
+          "confidence": 0.9
+        }
+      },
+      "buttonClassification": {
+        "llmCalled": true,
+        "llmSucceeded": true
+      }
+    }
+  },
+  "metadata": {
+    "twitter:creator": "",
+    "ogLocale": "pt_BR",
+    "ogSiteName": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "title": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "og:description": "Médica que atua Curitiba-PR realizando exames como o Ecocardiograma ambulatorial (2D, 3D e Strain), intraprocedimento, intra-operatório, além de Doppler de Carótidas e Vertebrais.",
+    "og:title": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "msapplication-TileImage": "https://brunaerbano.com.br/wp-content/uploads/2026/01/cropped-logo-para-icone-pagina-270x270.jpg",
+    "twitter:description": "Médica que atua Curitiba-PR realizando exames como o Ecocardiograma ambulatorial (2D, 3D e Strain), intraprocedimento, intra-operatório, além de Doppler de Carótidas e Vertebrais.",
+    "fb:pages": "",
+    "robots": "index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1",
+    "fb:admins": "",
+    "ogTitle": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "viewport": "width=device-width, initial-scale=1.0, viewport-fit=cover",
+    "ogUrl": "https://brunaerbano.com.br/",
+    "og:site_name": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "og:locale": "pt_BR",
+    "fb:app_id": "",
+    "og:url": "https://brunaerbano.com.br/",
+    "og:type": "website",
+    "language": "pt-BR",
+    "twitter:title": "Bruna Erbano - Cardiologista e Ecocardiografista",
+    "generator": [
+      "WordPress 6.8.3",
+      "Elementor 3.35.5; features: e_font_icon_svg, additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap"
+    ],
+    "twitter:site": "",
+    "description": "Médica que atua Curitiba-PR realizando exames como o Ecocardiograma ambulatorial (2D, 3D e Strain), intraprocedimento, intra-operatório, além de Doppler de Carótidas e Vertebrais.",
+    "twitter:card": "summary",
+    "ogDescription": "Médica que atua Curitiba-PR realizando exames como o Ecocardiograma ambulatorial (2D, 3D e Strain), intraprocedimento, intra-operatório, além de Doppler de Carótidas e Vertebrais.",
+    "favicon": "https://brunaerbano.com.br/wp-content/uploads/2026/01/cropped-logo-para-icone-pagina-32x32.jpg",
+    "scrapeId": "019ce8ca-4674-721e-bfe5-38b09fcef6af",
+    "sourceURL": "https://brunaerbano.com.br",
+    "url": "https://brunaerbano.com.br/",
+    "statusCode": 200,
+    "contentType": "text/html; charset=UTF-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "indexId": "d1faa69b-dc6c-426e-aff7-d83f013d5116",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}
