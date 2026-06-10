@@ -39,7 +39,7 @@ Mestre em Medicina Cardiovascular pela USP
 ## Atuação
 
 - **Cardiologista** **preceptora** **dos ambulatorios de valvopatias** do Hospital de Clínicas (UFPR) e Hospital Cajuru (Curitiba-PR);
-- **Ecocardiografista** dos Hospitais Cajuru, São Marcelino Champagnat, Instituto de Neurologia de Curitiba e da Quanta Diagnóstico por Imagem (Curitiba);
+- **Ecocardiografista** dos Hospitais Cajuru, São Marcelino Champagnat e Instituto de Neurologia de Curitiba;
 - **Professora da pós-graduação** em Ecocardiografia da Afya;
 - **Co-editora** da plataforma The Valve Club;
 - **Autora ou co-autora** de mais de 20 artigos completos publicados em periódicos e mais de 60 trabalhos apresentados em congressos.
@@ -49,8 +49,6 @@ Mestre em Medicina Cardiovascular pela USP
 [![](https://brunaerbano.com.br/wp-content/uploads/2026/01/images-150x150.png)](https://brunaerbano.com.br/wp-content/uploads/2026/01/images.png)
 
 [![](https://brunaerbano.com.br/wp-content/uploads/2026/01/channels4_profile-150x150.jpg)](https://brunaerbano.com.br/wp-content/uploads/2026/01/channels4_profile.jpg)
-
-[![](https://brunaerbano.com.br/wp-content/uploads/2026/01/logo-quanta-quadrada-150x150.jpg)](https://brunaerbano.com.br/wp-content/uploads/2026/01/logo-quanta-quadrada.jpg)
 
 [![](https://brunaerbano.com.br/wp-content/uploads/2026/01/logo-inc-quadrada-150x150.jpg)](https://brunaerbano.com.br/wp-content/uploads/2026/01/logo-inc-quadrada.jpg)
 

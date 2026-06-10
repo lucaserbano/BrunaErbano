@@ -132,7 +132,7 @@ O manual inclui dois padrões de fundo (texturas com linhas diagonais repetidas)
   - Cardiologista — Instituto Dante Pazzanese de Cardiologia (SP), certificada pela SBC (2º lugar nacional, 2020)
   - Ecocardiografista — Instituto do Coração (InCor/FMUSP), certificada pelo DIC/SBC
   - Mestra em Medicina Cardiovascular — USP
-- **Atuação clínica:** Hospital de Clínicas (UFPR), Hospital Cajuru, Hospital São Marcelino Champagnat, Instituto de Neurologia de Curitiba (INC - Ecoville), Quanta Diagnóstico por Imagem
+- **Atuação clínica:** Hospital de Clínicas (UFPR), Hospital Cajuru, Hospital São Marcelino Champagnat, Instituto de Neurologia de Curitiba (INC - Ecoville)
 - **Acadêmica:** Professora de pós-graduação em Ecocardiografia (Afya), co-editora da plataforma The Valve Club, autora/co-autora de 20+ artigos publicados em revistas científicas e 60+ trabalhos apresentados em congressos.
 
 ### Contato
@@ -141,11 +141,10 @@ O manual inclui dois padrões de fundo (texturas com linhas diagonais repetidas)
 - **CTA:** "Fale comigo!" → `https://wa.me/5541996958826`
 
 **Locais de atendimento:**
-1. **Quanta Diagnóstico por Imagem** — Av. Sete de Setembro 4751, Batel, Curitiba/PR | Hospital: (41) 3281-5555 | Cardio: (41) 3281-5501
-2. **Hospital Cajuru** — Av. Getúlio Vargas 1625, Seminário, Curitiba/PR | (41) 3310-7500
-3. **Hospital de Clínicas (UFPR)** — R. General Carneiro 181, Centro, Curitiba/PR | (41) 3360-1800
-4. **Instituto de Neurologia de Curitiba – Ecoville** — R. Jeremias Maciel Perretto 300, Ecoville, Curitiba/PR | INC: (41) 3028-8545 | Cardio: (41) 3028-8551
-5. **Hospital São Marcelino Champagnat** — Av. Presidente Affonso Camargo 1399, Cristo Rei, Curitiba/PR | (41) 3087-7600
+1. **Hospital Cajuru** — Av. Getúlio Vargas 1625, Seminário, Curitiba/PR | (41) 3310-7500
+2. **Hospital de Clínicas (UFPR)** — R. General Carneiro 181, Centro, Curitiba/PR | (41) 3360-1800
+3. **Instituto de Neurologia de Curitiba – Ecoville** — R. Jeremias Maciel Perretto 300, Ecoville, Curitiba/PR | INC: (41) 3028-8545 | Cardio: (41) 3028-8551
+4. **Hospital São Marcelino Champagnat** — Av. Presidente Affonso Camargo 1399, Cristo Rei, Curitiba/PR | (41) 3087-7600
 
 ---
 
